@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @pasosh12
 - 👀 I’m interested in frontend development
 - 🌱 I’m currently learning React js
-- 💞️ I’m currntly working on /react_project
 - 📫 How to reach me https://www.linkedin.com/in/daniil-shishaev-1a949021b/
 
 <!---
