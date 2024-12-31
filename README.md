@@ -7,7 +7,7 @@
 
 ### 💻 Languages and tools:
 
-<img align='right' src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="420">
+<img align='right' src="https://media1.tenor.com/m/adho7VbkF1wAAAAd/lofi-girl.gif" width="320">
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
