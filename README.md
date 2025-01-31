@@ -4,6 +4,7 @@
 - 🌱 My toolkit includes JavaScript, TypeScript and React to build scalable and maintainable UIs 👀 .
 
 - 📫 How to reach me https://www.linkedin.com/in/daniil-shishaev-1a949021b/
+- 📫 My portfolio link https://pasosh12.github.io/portfolio/
 
 ### 💻 Languages and tools:
 
